@@ -1,0 +1,18 @@
+html{
+    font-size: 17px;
+}
+body{
+    color: lightgray;
+    background-color: #333;
+}
+h1{
+    font-size: ;
+}
+
+a:visited {
+    color: lightgray;
+}
+
+a:hover{
+    color: aliceblue;
+}
